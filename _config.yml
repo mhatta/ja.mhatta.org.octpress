@@ -16,8 +16,8 @@ description: Masayuki Hatta's blog.
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
-subscribe_email: mhatta@mhatta.org
+subscribe_rss: http://feeds.feedburner.com/MasayukiHattaAkaMhatta
+subscribe_email: http://feedburner.google.com/fb/a/mailverify?uri=MasayukiHattaAkaMhatta&amp;loc=ja_JP
 # RSS feeds can list your email address if you like
 email: mhatta@mhatta.org
 
