@@ -7,6 +7,8 @@ categories: [octopress, blogging]
 ---
 今まで長いこと、レンタルサーバ（[Inetd](http://inetd.co.jp/))に自分で入れた[tDiary](http://tdiary.org/)を使って日本語ブログを書いてきたのだが、どうもバージョンを3.1.1に上げたあたりからNoMemoryErrorが頻出するようになり、記事の更新がうまくできずに困っていた。最新は3.1.4だが、やはりダメである。
 
+<!--more-->
+
 おそらくはtDiaryのせいではなくて、レンサバのスペックがチープなのが問題なのではないかと思うのだが（今時まだレンサバなのかよという話もある）、いずれにせよtDiaryはそろそろ潮時かなという気分もあって、このところ他のブログ・プラットフォームを物色していた。当初は[WordPress](http://wordpress.org/)にしようと思い、準備もできていたのだが、[Atsuya Takagi](http://atsuya.github.com/)さんに
 
 {% oembed https://twitter.com/atsuya/status/258335683117215744 %}
