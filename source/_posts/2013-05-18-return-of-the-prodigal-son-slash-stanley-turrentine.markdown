@@ -5,7 +5,7 @@ date: 2013-05-18 18:30
 comments: true
 categories: jazz
 ---
-{{ "B0016CP39E" | amazon_medium_image }}
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0016CP39E/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51W8mftwgpL._SL160_.jpg" alt="Return of the Prodigal Son" style="border: none;" /></a>
 
 2008年に出たブルーノートの発掘盤。といっても大方はすでに何らかの形で表に出ていて、完全未発表は3曲だけだと思う。1967年の6月と7月に行われた2回のセッションにおける録音をまとめたもので、後者はアルフレッド・ライオンが自らプロデュースした最後のセッションとなった。
 

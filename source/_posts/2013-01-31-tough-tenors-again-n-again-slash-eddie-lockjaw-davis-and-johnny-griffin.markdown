@@ -5,7 +5,7 @@ date: 2013-01-31 05:08
 comments: true
 categories: jazz
 ---
-{{ "B007Y59CDA" | amazon_medium_image }}
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B007Y59CDA/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41StNBIwG2L._SL160_.jpg" alt="Tough Tenors Again 'n'" style="border: none;" /></a>
 
 このところMPSレーベルの再発が地味に進んでいてうれしいのだが（しかしいつまで経ってもバリー・ハリスやハンク・ジョーンズのトリオものは出ない）、これもそうしたものの一枚。ドイツ製の輸入盤なのに紙ジャケ、しかも一部日本語が書かれた紙の帯が巻いてあるという謎仕様なのだが、まあそれだけ日本の市場を意識してるんでしょう。
 

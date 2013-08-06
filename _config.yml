@@ -42,7 +42,7 @@ rdiscount:
 pygments: false # default python pygments have been replaced by pygments.rb
 
 paginate: 10          # Posts per page on the blog index
-pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
+pagination_dir:	      # Directory base for pagination URLs eg. /blog/page/2/
 recent_posts: 5       # Posts in the sidebar Recent Posts section
 excerpt_link: "続きを読む &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 
@@ -114,3 +114,8 @@ quora_user: Masayuki-Hatta
 
 # LinkedIn
 linkedin_user: mhatta
+
+# Instagram
+instagram_user: 393053048
+instagram_client: 4c071d9afa67480f8e311914d06834f9
+instagram_access_token: 393053048.5b9e1e6.db092e12f7cc42399bc2f2c9ca3b6ba3

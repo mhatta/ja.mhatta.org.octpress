@@ -5,7 +5,7 @@ date: 2012-10-21 19:40
 comments: true
 categories: jazz
 ---
-{{ "B001BJ65HQ" | amazon_medium_image }}
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B001BJ65HQ/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41xjqzJjzRL._SL160_.jpg" alt="Beyond Quantum" style="border: none;" /></a>
 
 アンソニー・ブラクストンというと、端的に言ってキワモノという根強い偏見があって食わず嫌いしていたのだが、息子のチョンダイや、メアリー・ハルヴァーソンらウェズリアン大学での弟子たちの活躍もあって、最近ではちょっと師匠の彼にも興味が湧いてきた。
 

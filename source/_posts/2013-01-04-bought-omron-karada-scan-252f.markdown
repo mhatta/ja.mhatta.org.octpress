@@ -5,7 +5,7 @@ date: 2013-01-04 22:02
 comments: true
 categories: life, health
 ---
-{{ "B0093E9OQK" | amazon_medium_image}}
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0093E9OQK/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31f0yMrgE2L._SL160_.jpg" alt="オムロン 体重体組成計 カラダスキャン ブラック HBF-252F-BK【ウェルネスリンク対応】" style="border: none;" /></a>
 
 運悪く私の実物に遭遇したことがある人はご存知だと思うが、ネット上における爽やかな言行とは裏腹に、リアルワールドにおけるわたくしはかなりの大兵肥満である。今のところまだ深刻な健康問題は抱えていないものの、ここ数年脳梗塞や糖尿病など深刻な体調不良に見舞われる友人も増えてきており、どげんかせんといかん（死語）と思ってはいた。
 

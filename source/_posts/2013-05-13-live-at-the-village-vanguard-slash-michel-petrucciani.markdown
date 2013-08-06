@@ -5,7 +5,7 @@ date: 2013-05-13 03:19
 comments: true
 categories: jazz
 ---
-{{ "B00006CTH7" | amazon_medium_image }}
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00006CTH7/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41qVVps443L._SL160_.jpg" alt="Live at the Village Vanguard" style="border: none;" /></a>
 
 このライヴ盤を買ったのはずいぶん昔のことだが、最近までほとんど聞かなかった。ミシェル・ペトルチアーニを聞く頻度は、他のピアニストと比べてかなり高いにも関わらず、である。
 

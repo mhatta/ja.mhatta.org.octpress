@@ -5,7 +5,7 @@ date: 2013-05-17 22:14
 comments: true
 categories: jazz
 ---
-{{ "B000005GY3" | amazon_medium_image }}
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000005GY3/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51XNGT9q6nL._SL160_.jpg" alt="Easy Walker" style="border: none;" /></a>
 
 書くべき原稿が、思った以上に進みませんでしてね。困り果てたのでこれを聞いている。
 

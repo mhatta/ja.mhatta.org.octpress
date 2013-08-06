@@ -5,7 +5,7 @@ date: 2013-01-08 22:49
 comments: true
 categories: jazz
 ---
-{{ "B0018Q3XTK" | amazon_medium_image }}
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0018Q3XTK/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51wKBV17IxL._SL160_.jpg" alt="Betwixt" style="border: none;" /></a>
 
 アク—スティック・ピアノ、いわゆる生ピアノは、少なくともジャズにおいては、可能性がすでに尽きているのではないかと思うことがある。ただ弾くぶんには相変わらず楽しいし好きなのだが、音楽的にはオーソドックスなものからフリーまで、器楽奏法的にも肘打ちからプリペアドまでもうあらかた出尽くしているわけで、ピアノが入るだけで今までのジャズの伝統に押しつぶされるというか、過去の空気がもわっと立ち上がるようなところは否めない。
 

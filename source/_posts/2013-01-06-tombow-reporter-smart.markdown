@@ -5,7 +5,7 @@ date: 2013-01-06 23:48
 comments: true
 categories: gadget
 ---
-{{ "B005YUE8UY" | amazon_medium_image }}
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B005YUE8UY/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41-UPGRwJrL._SL160_.jpg" alt="リポータースマート ４色ボールペン【セピアグリーン】 BC-FRL65" style="border: none;" /></a>
 
 ここ数年で一番派手にイノベーションが起こった分野は、ボールペンの世界だったような気がする。油性ボールペンには滑りが悪くて書きにくいというイメージがあったものだが、それが今では大きく様変わりした。その先駆となったのが三菱鉛筆の[ジェットストリーム](http://www.mpuni.co.jp/product/category/ball_pen/jetstream/)だが、あれを初めて使ったときはまあびっくりしましたね。「ジェットストリーム革命」みたいなものが確かにあったのだ。それが10年くらい前。
 

@@ -5,7 +5,7 @@ date: 2013-01-06 05:21
 comments: true
 categories: jazz
 ---
-{{ "B000000Z1T" | amazon_medium_image }}
+<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B000000Z1T/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/21F2RPVZAQL._SL160_.jpg" alt="Chasin the Bird" style="border: none;" /></a>
 
 先日、久しぶりに中古CD屋へ行ってしこたま買い込んできたのだが、掘り出し物が多くて喜んでいる。掘り出し物といっても珍しいものではなく、よく知っている人のあまり有名ではない作品が、予想以上に良かったので驚いた、という話だ。こういうもののほうが、期待していないだけうれしいものである。
 
