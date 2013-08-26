@@ -18,5 +18,4 @@ end
 
 gem 'sinatra', '~> 1.4.2'
 
-gem 'ruby-aaws'
 gem 'ruby-oembed'
