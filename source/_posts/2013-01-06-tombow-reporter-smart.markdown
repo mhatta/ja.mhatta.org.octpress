@@ -3,7 +3,7 @@ layout: post
 title: "トンボ リポーター スマートの話"
 date: 2013-01-06 23:48
 comments: true
-categories: gadget
+categories: gadgets
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B005YUE8UY/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41-UPGRwJrL._SL160_.jpg" alt="リポータースマート ４色ボールペン【セピアグリーン】 BC-FRL65" style="border: none;" /></a>
 
