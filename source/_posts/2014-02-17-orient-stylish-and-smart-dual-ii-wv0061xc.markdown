@@ -3,7 +3,7 @@ layout: post
 title: "Orient Stylish And Smart Dual II WV0061XC"
 date: 2014-02-17 22:33:21 +0900
 comments: true
-categories: gadget
+categories: gadgets
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00EUSZWZQ/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51dtLaHA4bL._SL160_.jpg" alt="[オリエント]ORIENT 腕時計 STYLISH AND SMART スタイリッシュ アンド スマート DUAL II デュアルタイム 自動巻・クオーツ WV0061XC メンズ" style="border: none;" /></a>
 
