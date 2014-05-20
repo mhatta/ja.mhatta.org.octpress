@@ -61,6 +61,6 @@ categories: jazz
 
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00000DC7J/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/515W5seFvPL._SL160_.jpg" alt="Tango: Zero Hour" style="border: none;" /></a>
 
-{$ oembed http://youtu.be/7FwXdEyrGts %}
+{% oembed http://youtu.be/7FwXdEyrGts %}
 
 ジャズ以外からもひとつだけということで。ピアソラもまた緊張感を大事にしていたアーティストだった（インタビューか何かでそういうことを言っていたような覚えがある）。
