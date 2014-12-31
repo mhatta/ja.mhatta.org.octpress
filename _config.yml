@@ -105,7 +105,6 @@ google_analytics_tracking_id: UA-938391-2
 facebook_like: true
 
 # Bitcoin Donations
-#bitcoin: 1H64MNRZpQhKgnPoUsE9L4dC93UZBTuhnx
 bitcoin: 1KL99per1ZCSHcfM8DndMbR4Jund5eacdQ
 
 # Stackoverflow
@@ -119,6 +118,12 @@ facebook_user: masayuki.hatta
 
 # LinkedIn
 linkedin_user: mhatta
+
+# Vimeo
+vimeo_user: masayukihatta
+
+# 500px
+500px_user: mhatta
 
 # Instagram
 instagram_user: 393053048
