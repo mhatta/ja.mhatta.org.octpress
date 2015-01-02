@@ -104,28 +104,37 @@ google_analytics_tracking_id: UA-938391-2
 # Facebook Like
 facebook_like: true
 
+# 500px
+500px_user: mhatta
+
 # Bitcoin Donations
 bitcoin: 1KL99per1ZCSHcfM8DndMbR4Jund5eacdQ
-
-# Stackoverflow
-stackoverflow_user: 1458456
-
-# Quora
-quora_user: Masayuki-Hatta
 
 # Facebook
 facebook_user: masayuki.hatta
 
-# LinkedIn
-linkedin_user: mhatta
-
-# Vimeo
-vimeo_user: masayukihatta
-
-# 500px
-500px_user: mhatta
+# Flattr
+flattr_uid: mhatta
+flattr_tags: text, opensource, blog
+flattr_category: text
 
 # Instagram
 instagram_user: 393053048
 instagram_client: 4c071d9afa67480f8e311914d06834f9
 instagram_access_token: 393053048.5b9e1e6.db092e12f7cc42399bc2f2c9ca3b6ba3
+
+# LinkedIn
+linkedin_user: mhatta
+
+# Quora
+quora_user: Masayuki-Hatta
+
+# Stackoverflow
+stackoverflow_user: 1458456
+
+# Steam
+steam_user: mhatta
+
+# Vimeo
+vimeo_user: masayukihatta
+
