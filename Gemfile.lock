@@ -84,7 +84,6 @@ GEM
     rdiscount (2.1.7.1)
     redcarpet (3.2.2)
     ruby-oembed (0.8.11)
-    rubypants (0.2.0)
     safe_yaml (1.0.4)
     sass (3.4.9)
     sass-globbing (1.0.0)
@@ -116,7 +115,9 @@ DEPENDENCIES
   rb-fsevent (~> 0.9)
   rdiscount (~> 2.0)
   ruby-oembed
-  rubypants (~> 0.2.0)
   sass-globbing (~> 1.0.0)
   sinatra (~> 1.4.2)
   stringex (~> 1.4.0)
+
+BUNDLED WITH
+   1.10.6
