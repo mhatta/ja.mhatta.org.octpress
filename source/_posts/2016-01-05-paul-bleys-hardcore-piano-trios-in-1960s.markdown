@@ -3,7 +3,7 @@ layout: post
 title: "ポール・ブレイのかっこ良すぎる60年代ピアノ・トリオ"
 date: 2016-01-05 18:03:18 +0900
 comments: true
-categories: jazz
+categories: jazz obit
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B003VL9KQ0/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51z7RKRSrnL.jpg" alt="Ramblin'" style="border: none;" /></a>
 

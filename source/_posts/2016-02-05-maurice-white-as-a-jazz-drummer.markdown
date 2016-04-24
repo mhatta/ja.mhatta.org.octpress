@@ -3,7 +3,7 @@ layout: post
 title: "ドラマーとしてのモーリス・ホワイト"
 date: 2016-02-05 10:32:13 +0900
 comments: true
-categories: jazz 
+categories: jazz obit
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0002J54OQ/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41LOGThWxcL.jpg" alt="エッセンシャル・アース・ウィンド&ファイアー" style="border: none;" /></a>
 

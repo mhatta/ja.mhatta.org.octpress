@@ -3,7 +3,7 @@ layout: post
 title: "スターマン故郷へ帰る"
 Date: 2016-01-22 17:42:46 +0900
 comments: true
-categories: jazz
+categories: jazz obit
 ---
 <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0189JGNSQ/myhumangetsme-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/314BbVsiaoL.jpg" alt="★(ブラックスター）" style="border: none;" /></a>
 
